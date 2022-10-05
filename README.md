@@ -1,12 +1,3 @@
----
-title: "Project Pt. 1"
-author: "Jackson Dugger"
-date: "2022-10-05"
-output: html_document
----
+# Project Description
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## Project Pt. 1
+This project will use meteorological and other data to predict the burned area of forest fires in the northeast region of Portugal.
